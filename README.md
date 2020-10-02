@@ -16,9 +16,9 @@ Before you begin, ensure you have met the following requirements:
 * You have the necessary python libraries. Check the python notebook file to see what library has been used.
 
 
-## Contributing to <project_name>
+## Contributing to this project
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <project_name>, follow these steps:
+To contribute to this project, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
